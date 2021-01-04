@@ -29,4 +29,6 @@ Attempt at a roguelite deckbuilding game similar to others in its genre.
 * Saved Progress and out-of-game exp/leveling design
 
 # Game Screenshots
-![Alt text](/images/wizard.jpg?raw=true "Wizard")
+![Alt text](/Screenshots/Intro_Screen.jpg?raw=true "Rough Intro Screen")
+![Alt text](/Screenshots/Choose_Class_Screen.jpg?raw=true "Rough Choose Class Screen")
+![Alt text](/Screenshots/Main_Game_Loop.jpg?raw=true "Rough Screen for the main game loop")
